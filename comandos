@@ -42,5 +42,6 @@ LISTA DE COMANDOS NO CHAT DO TWITCH.TV/ASPIRANTETV
  !live: audio que informa que a live já está começando
  !demom: marcando uma pessoa,manda um audio dizendo pro usuario nao esquecer de seguir o canal.
  !follow: manda um audio dizendo que temos um novo seguidor no canal
+ !ajuda : envia um audio para o aspirante informando que estão precisando de ajuda no chat.
  
  
